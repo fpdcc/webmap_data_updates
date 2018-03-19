@@ -3848,21 +3848,6 @@
       },
       "geometry": {
         "coordinates": [
-          -87.65474,
-          41.472218
-        ],
-        "type": "Point"
-      },
-      "id": "cc3f82fd45030433eead901cd4f2ef87"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Parking",
-        "fpdccBasemap": "P"
-      },
-      "geometry": {
-        "coordinates": [
           -87.875443,
           41.702922
         ],
@@ -4784,21 +4769,6 @@
         "type": "Point"
       },
       "id": "f93504ec9ac623fe9f3eeaf9cd6361f7"
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Parking",
-        "fpdccBasemap": "P"
-      },
-      "geometry": {
-        "coordinates": [
-          -87.760521,
-          41.992141
-        ],
-        "type": "Point"
-      },
-      "id": "fdaecb39ee12154cafb996f6b30e3398"
     }
   ],
   "type": "FeatureCollection"
