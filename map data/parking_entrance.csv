@@ -1,5 +1,5 @@
 parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
-0,Harms Flatwoods Nature Preserve,,"Skokie, IL 60077",yes,no,
+0,Harms Woods Nature Preserve,,"Cook County, IL 60025",yes,no,
 1,St. Paul Woods,"Lincoln Ave, south of W Dempster St","Morton Grove, IL 60053",yes,no,0101000020E61000007DCA9B4E64F255C0E45AA5BDC1044540
 2,Wayside Woods,"Lehigh Ave, north of W Dempster Ave","Morton Grove, IL 60053",yes,no,0101000020E610000046892D5C85F255C0A2C73D2276054540
 4,Dam No. 4 Woods-East,,,yes,no,0101000020E61000003C59A2EBB6F655C0F79BEE810E004540
@@ -80,7 +80,7 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 94,Forest Way Grove,"Forest Way Dr, south of Dundee Rd","Cook County, IL 60022",yes,no,0101000020E6100000722A0F0393F155C0866DD09984104540
 95,Turnbull Woods,"Green Bay Rd, south of Lake Cook Rd","Glencoe, IL 60022",yes,no,0101000020E61000006398A0C0AFF155C071E89B0338134540
 96,Harms Woods-Central,"Harms Rd, south of Old Orchard Rd","Cook County, IL 60077",yes,no,0101000020E6100000205F043033F155C02EB02A24B4074540
-97,Harms Woods-North,Harms Rd &amp; Old Orchard Rd,"Cook County, IL 60077",yes,no,0101000020E6100000FAB2AB5F47F155C017C233BD01084540
+97,Harms Woods North Bike Rental,,,yes,no,0101000020E6100000FAB2AB5F47F155C017C233BD01084540
 98,Harms Woods-South,,,yes,no,0101000020E61000004345D75E24F155C010E3223C7A074540
 99,Schiller Woods-West,,,yes,no,0101000020E6100000CEDB8874F8F055C0C6B4192CFD0C4540
 100,Woodrow Wilson Woods,,,yes,no,0101000020E6100000B4AE9F3349E955C09F647F76C9C04440
