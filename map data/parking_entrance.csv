@@ -39,7 +39,7 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 48,Arrowhead Lake,"W 135th St, east of Harlem Ave","Cook County, IL 60463",yes,no,0101000020E6100000CDB9C7A4AEF255C017BDC8DEBBD24440
 49,Bur Oak Woods,"Harlem Ave, south of W 135th St","Cook County, IL 60463",yes,no,0101000020E6100000FEE20E5AE8F255C0E4EF48442AD24440
 50,Elizabeth A. Conkey Forest-North,"Central Ave, north of W 135th St","Cook County, IL 60463",yes,no,0101000020E610000015C62EB97FF055C061D2EB585AD34440
-51,Elizabeth A. Conkey Forest-South,"W 135th St, west of Central Ave","Cook County, IL 60463",yes,no,0101000020E6100000A4FF21C1EFF055C048678BEEC8D24440
+51,Elizabeth Conkey Woods Nature Preserve,,,yes,no,0101000020E6100000A4FF21C1EFF055C048678BEEC8D24440
 52,Tinley Creek Woods,"Harlem Ave, north of W 143rd St","Cook County, IL 60483",yes,no,0101000020E61000002D4E12F9E3F255C074FBA43836D14440
 53,Cherry Hill Woods,"S Willow Springs Rd, north of McCarthy Rd","Cook County, IL 60464",yes,no,0101000020E6100000F9642237F6F755C013B5876289D64440
 54,Forty Acre Woods,"119th St, east of S La Grange Rd","Cook County, IL 60464",yes,no,0101000020E6100000260993A17CF655C0CAC2E2704AD64440
