@@ -1,5 +1,5 @@
 parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
-0,Cummings Square,536 N Harlem Ave,"River Forest, IL 60305",yes,no,
+0,Bergman Slough Land & Water Reserve,,"Cook County, IL 60464",yes,no,
 1,St. Paul Woods,"Lincoln Ave, south of W Dempster St","Morton Grove, IL 60053",yes,no,0101000020E61000007DCA9B4E64F255C0E45AA5BDC1044540
 2,Wayside Woods,"Lehigh Ave, north of W Dempster Ave","Morton Grove, IL 60053",yes,no,0101000020E610000046892D5C85F255C0A2C73D2276054540
 4,Dam No. 4 Woods-East,"S Dee Rd, north of Devon Ave","Park Ridge, IL 60068",yes,no,0101000020E61000003C59A2EBB6F655C0F79BEE810E004540
@@ -35,11 +35,11 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 43,National Grove-North,"W 26th St, east of 1st Ave","North Riverside, IL 60546",yes,no,0101000020E6100000D765289DF4F455C0CE7B7C57DBEB4440
 44,Schuth's Grove,"W Cermak Rd, west of Des Plaines Ave","Cook County, IL 60546",yes,no,0101000020E610000036C0174CB9F455C04B3E56C4D0EC4440
 46,Bemis Woods-South,"Ogden Ave, west of Wolf Rd","Cook County, IL 60558",yes,no,0101000020E610000056B32F2DCEF955C092C70ABC02E94440
-47,Turtlehead Lake,,,yes,no,0101000020E6100000183E1D84EDF255C02E0959ED6BD24440
+47,Turtlehead Lake,"Harlem Ave, south of W 135th St","Cook County, IL 60462",yes,no,0101000020E6100000183E1D84EDF255C02E0959ED6BD24440
 48,Arrowhead Lake,"W 135th St, east of Harlem Ave","Cook County, IL 60463",yes,no,0101000020E6100000CDB9C7A4AEF255C017BDC8DEBBD24440
 49,Bur Oak Woods,"Harlem Ave, south of W 135th St","Cook County, IL 60463",yes,no,0101000020E6100000FEE20E5AE8F255C0E4EF48442AD24440
 50,Elizabeth A. Conkey Forest-North,"Central Ave, north of W 135th St","Cook County, IL 60463",yes,no,0101000020E610000015C62EB97FF055C061D2EB585AD34440
-51,Elizabeth Conkey Woods Nature Preserve,,,yes,no,0101000020E6100000A4FF21C1EFF055C048678BEEC8D24440
+51,Elizabeth A. Conkey Forest-South,"W 135th St, west of Central Ave","Cook County, IL 60463",yes,no,0101000020E6100000A4FF21C1EFF055C048678BEEC8D24440
 52,Tinley Creek Woods,"Harlem Ave, north of W 143rd St","Cook County, IL 60483",yes,no,0101000020E61000002D4E12F9E3F255C074FBA43836D14440
 53,Cherry Hill Woods,"S Willow Springs Rd, north of McCarthy Rd","Cook County, IL 60464",yes,no,0101000020E6100000F9642237F6F755C013B5876289D64440
 54,Forty Acre Woods,"119th St, east of S La Grange Rd","Cook County, IL 60464",yes,no,0101000020E6100000260993A17CF655C0CAC2E2704AD64440
@@ -89,14 +89,14 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 103,Plum Creek Meadow,"Burnham Ave, north of 223rd St","Cook County, IL 60411",yes,no,0101000020E610000016BB082E78E255C0D0C1028333BE4440
 104,Sauk Trail Woods-South,"Forest Preserve Dr, north of W Sauk Trail","South Chicago Heights, IL 60411",yes,no,0101000020E610000090B3D1B9AEE955C0370C8AD900BE4440
 105,Sauk Trail Woods-East,"Forest Preserve Dr, south of W 26th St","South Chicago Heights, IL 60411",yes,no,0101000020E61000007D4916CF75E955C0EF0DD35B78BE4440
-106,Sauk Lake,,,yes,no,0101000020E6100000FB4731909EE955C0A875E232E9BE4440
+106,Sauk Trail Woods-North,"W 26th St, west of Euclid Ave","South Chicago Heights, IL 60411",yes,no,0101000020E6100000FB4731909EE955C0A875E232E9BE4440
 107,Sauk Trail Woods-Central,"Forest Preserve Dr, south of W 26th St","South Chicago Heights, IL 60411",yes,no,0101000020E61000001A5E29B392E955C0D3CD51C936BE4440
 108,Glenwood Woods-North,,,yes,no,0101000020E61000007C244D14BFE755C040294D2D20C64440
 110,Brownell Woods,"S Hunter St, south of E Margret St","Thornton, IL 60476",yes,no,0101000020E6100000852B77801EE755C0EB4BD67D4EC84440
 111,Jurgensen Woods,"183rd St, east of Cottage Grove Ave","Cook County, IL 60476",yes,no,0101000020E61000006A3F6255F0E555C05701B45559C74440
 112,Sweet Woods,"Cottage Grove Ave, north of Glenwood Lansing Rd","Cook County, IL 60476",yes,no,0101000020E61000009C5B83F72DE655C02E4F007A1BC74440
 113,Wampum Lake,,,yes,no,0101000020E6100000FEE60B75EFE555C0FE19E0CCF6C84440
-114,Vollmer Road Grove,,,yes,no,0101000020E610000095EDCE9DF1ED55C08DC2749295C34440
+114,Vollmer Road Grove,"Vollmer Rd, west of Crawford Ave","Cook County, IL 60478",yes,no,0101000020E610000095EDCE9DF1ED55C08DC2749295C34440
 117,Deer Grove-East,"W Dundee Rd, west of N Hicks Rd","Cook County, IL 60074",yes,no,0101000020E61000009C4F24BEC20256C0CB825F99D6114540
 119,Caldwell Woods,W Devon Ave & N Nagle Ave,"Chicago, IL 60646",yes,no,0101000020E610000031CCD67557F255C071E69EA6ABFF4440
 120,Edgebrook Woods,"Central Ave, south of N Lehigh Ave","Chicago, IL 60646",yes,no,0101000020E61000008367D761F8F055C0F296BD0227FF4440
@@ -121,7 +121,7 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 142,Bunker Hill,"W Harts Rd, southwest of W Touhy Ave","Niles, IL 60714",yes,no,0101000020E61000008A8BEF0BBDF255C0D4F4571D72014540
 143,Ned Brown Model Airplane Flying Field,,,yes,no,0101000020E610000005156F7A810156C0D8FD995A7F064540
 144,Busse Lake Beisner Road Access,,,yes,no,0101000020E6100000ABF1742E320156C0689DF5902C014540
-145,Busse Forest Main Dam,"S Arlington Heights Rd, south of Landmeier Rd","Elk Grove Village, IL 60007",yes,no,0101000020E610000079E49F8896FF55C02D54621C06024540
+145,Busse Forest Main Dam,,,yes,no,0101000020E610000079E49F8896FF55C02D54621C06024540
 146,Grassy Ridge Meadow,,,yes,no,0101000020E6100000EA36A6A24A0756C05B4A1D8997084540
 147,Big Bend Lake,"Bender Rd, south of Golf Rd","Des Plaines, IL 60016",yes,no,0101000020E6100000BD647717ABF755C001E70DDAA4064540
 148,Camp Ground Road Woods,,,yes,no,0101000020E61000008944887AFBF755C0A4B159600D044540
@@ -149,7 +149,7 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 172,Thatcher Pond,,,yes,no,0101000020E6100000C1E05C21F4F455C0D0467BAB64F24440
 173,Callahan Grove,"W Cermak Rd, west of Des Plaines Ave","North Riverside, IL 60546",yes,no,0101000020E61000001A5CFF35BEF455C0E6294E89C9EC4440
 174,Buffalo Woods Family Picnic Area,"S Kean Ave, north of W 87th St","Cook County, IL 60480",yes,no,0101000020E610000004108E9446F655C0F3055F28A9DE4440
-175,John Husar I&M Canal Bicycle Trail Parking Lot,,,yes,no,0101000020E61000007894AC7038F855C0B947B26DCFDD4440
+175,John Husar I&M Canal Bicycle Trail Parking Lot,"Willow Blvd, north of Archer Ave","Willow Springs, IL 60480",yes,no,0101000020E61000007894AC7038F855C0B947B26DCFDD4440
 176,Pulaski Woods-South,"Wolf Rd, south of 95th St","Cook County, IL 60480",yes,no,0101000020E61000009595E34744F955C021951EBA78DA4440
 177,Maple Lake Boating Center,,,yes,no,0101000020E61000000B5D3BA947F955C08D769D9C1ADB4440
 178,Bullfrog Lake,,,yes,no,0101000020E61000003F81609A49F955C00248CBF34BDB4440
