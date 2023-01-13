@@ -1,5 +1,5 @@
 parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
-0,Bergman Slough Land & Water Reserve,,"Cook County, IL 60464",yes,no,
+0,Cummings Square,536 N Harlem Ave,"River Forest, IL 60305",yes,no,
 1,St. Paul Woods,"Lincoln Ave, south of W Dempster St","Morton Grove, IL 60053",yes,no,0101000020E61000007BCA9B4E64F255C0575CA5BDC1044540
 2,Wayside Woods,"Lehigh Ave, north of W Dempster Ave","Morton Grove, IL 60053",yes,no,0101000020E610000044892D5C85F255C014C93D2276054540
 4,Dam No. 4 Woods-East,"S Dee Rd, north of Devon Ave","Park Ridge, IL 60068",yes,no,0101000020E61000003A59A2EBB6F655C0689DEE810E004540
@@ -69,7 +69,7 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 81,Ida Lake,,,yes,no,0101000020E6100000000882FA8BF755C0491F73968FE24440
 82,Calumet Woods,Ashland Ave &amp; Charles Dr,"Riverdale, IL 60827",yes,no,0101000020E610000095F1219043EA55C03082C8C8C2D24440
 83,Midlothian Meadows,,,yes,no,0101000020E6100000985BD437E9ED55C02B5B570E98CE4440
-84,Rubio Woods,"W Midlothian Turnpike/W 143rd St, west of S Ridgeland Ave","Cook County, IL 60445",yes,no,0101000020E610000051A4847D08F155C07E7758F6F4D04440
+84,Rubio Woods,"W Midlothian Turnpike/W 143rd St, east of S Ridgeland Ave","Cook County, IL 60445",yes,no,0101000020E610000051A4847D08F155C07E7758F6F4D04440
 86,Carlson Springs Woods,"Oak Park Ave, south of E 143rd St","Cook County, IL 60452",yes,no,0101000020E6100000193C76223CF255C0D2A0D60088D04440
 87,Cooper's Hawk Family Picnic Area,"W 135th St, east of S Ridgeland Ave","Cook County, IL 60463",yes,no,0101000020E61000005F5A095A44F155C0FB2F30D6C3D24440
 89,Whistler Woods,,,yes,no,0101000020E6100000801A5A9DEBE855C0A3C90CA670D34440
@@ -96,13 +96,13 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 111,Jurgensen Woods,"183rd St, east of Cottage Grove Ave","Cook County, IL 60476",yes,no,0101000020E6100000683F6255F0E555C09F02B45559C74440
 112,Sweet Woods,"Cottage Grove Ave, north of Glenwood Lansing Rd","Cook County, IL 60476",yes,no,0101000020E6100000995B83F72DE655C07850007A1BC74440
 113,Wampum Lake,,,yes,no,0101000020E6100000FCE60B75EFE555C0471BE0CCF6C84440
-114,Vollmer Road Grove,"Vollmer Rd, west of Crawford Ave","Cook County, IL 60478",yes,no,0101000020E610000093EDCE9DF1ED55C0D1C3749295C34440
+114,Vollmer Road Grove,,,yes,no,0101000020E610000093EDCE9DF1ED55C0D1C3749295C34440
 117,Deer Grove-East,"W Dundee Rd, west of N Hicks Rd","Cook County, IL 60074",yes,no,0101000020E61000009B4F24BEC20256C047845F99D6114540
 119,Caldwell Woods,W Devon Ave & N Nagle Ave,"Chicago, IL 60646",yes,no,0101000020E61000002FCCD67557F255C0DFE79EA6ABFF4440
 120,Edgebrook Woods,"Central Ave, south of N Lehigh Ave","Chicago, IL 60646",yes,no,0101000020E61000008167D761F8F055C06298BD0227FF4440
 121,"Thaddeus S. ""Ted"" Lechowicz Woods Sledding Hill",,,yes,no,0101000020E610000059AA0BE00DF155C06A9D797395FE4440
 122,Forest Glen Woods,,,yes,no,0101000020E610000034430DF74EF055C0A17F26EF84FD4440
-123,Irene C. Hernandez Family Picnic Grove,"W Foster Ave, east of N Cicero Ave","Chicago, IL 60630",yes,no,0101000020E61000002451FB7867EF55C0EBD424CDDBFC4440
+123,Irene C. Hernandez,,,yes,no,0101000020E61000002451FB7867EF55C0EBD424CDDBFC4440
 124,LaBagh Woods,,,yes,no,0101000020E6100000ABB9D95ADEEF55C0604C87A21BFD4440
 125,Schiller Playfield,"W Montrose Ave, east of N Cumberland Ave","Chicago, IL 60706",yes,no,0101000020E6100000B9CD986C64F555C0EA859BDCCAFA4440
 127,Che Che Pin Qua Woods,"W Irving Park Ave, west of N Cumberland Ave","Chicago, IL 60634",yes,no,0101000020E6100000191640381EF655C089EC07A9EBF94440
@@ -120,8 +120,8 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 141,Robinson Woods-South,,,yes,no,0101000020E6100000CEDBF974AAF655C06392E142A8FB4440
 142,Bunker Hill,"W Harts Rd, southwest of W Touhy Ave","Niles, IL 60714",yes,no,0101000020E6100000898BEF0BBDF255C044F6571D72014540
 143,Ned Brown Model Airplane Flying Field,,,yes,no,0101000020E610000005156F7A810156C04DFF995A7F064540
-144,Busse Lake Beisner Road Access Accessible Fishing Area,,,yes,no,0101000020E6100000AAF1742E320156C0D99EF5902C014540
-145,Busse Forest Main Dam Accessible Fishing Area,,,yes,no,0101000020E610000079E49F8896FF55C09D55621C06024540
+144,Busse Lake Beisner Road Access,"Beisner Rd, north of Biesterfield Rd","Cook County, IL 60007",yes,no,0101000020E6100000AAF1742E320156C0D99EF5902C014540
+145,Busse Forest Main Dam,,,yes,no,0101000020E610000079E49F8896FF55C09D55621C06024540
 146,Grassy Ridge Meadow,,,yes,no,0101000020E6100000E936A6A24A0756C0D14B1D8997084540
 147,Big Bend Lake,"Bender Rd, south of Golf Rd","Des Plaines, IL 60016",yes,no,0101000020E6100000BC647717ABF755C076E80DDAA4064540
 148,Camp Ground Road Woods,,,yes,no,0101000020E61000008844887AFBF755C016B359600D044540
@@ -141,7 +141,7 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 163,Somme Woods,"Dundee Rd, east of S Waukegan Ave","Northbrook, IL 60062",yes,no,0101000020E6100000BCDEF1FDA8F455C032D31589B2114540
 164,Bremen Grove,"Oak Park Ave, south of 159th St","Cook County, IL 60477",yes,no,0101000020E61000008C8001CD3FF255C03F773775F1CC4440
 165,Yankee Woods,,,yes,no,0101000020E6100000F76EAEA85DF055C02A52D6E3E2CB4440
-166,Busse Forest Elk Pasture Trailhead,,,yes,no,0101000020E610000094AC19701EFF55C0BFDAB86EFC034540
+166,Busse Forest Elk Pasture,"N Arlington Heights Rd, north of E Higgins Rd","Cook County, IL 60007",yes,no,0101000020E610000094AC19701EFF55C0BFDAB86EFC034540
 167,Blue Beech Family Picnic Area,"S River Road, south of E Devon Ave","Cook County, IL 60018",yes,no,0101000020E61000003C8CC12D1BF755C0F51FFEC742FF4440
 169,Blandings Grove Family Picnic Area,"S River Road, north of E Devon Ave","Cook County, IL 60018",yes,no,0101000020E61000004AF4931639F755C0119822D9D3FF4440
 170,Axehead Lake,"S River Road, south of W Touhy Ave","Cook County, IL 60018",yes,no,0101000020E6100000933297F443F755C06D67E2444C014540
@@ -151,8 +151,8 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 174,Buffalo Woods Family Picnic Area,"S Kean Ave, north of W 87th St","Cook County, IL 60480",yes,no,0101000020E610000003108E9446F655C049075F28A9DE4440
 175,John Husar I&M Canal Bicycle Trail Parking Lot,"Willow Blvd, north of Archer Ave","Willow Springs, IL 60480",yes,no,0101000020E61000007794AC7038F855C01149B26DCFDD4440
 176,Pulaski Woods-South,"Wolf Rd, south of 95th St","Cook County, IL 60480",yes,no,0101000020E61000009495E34744F955C074961EBA78DA4440
-177,Maple Lake Boating Center Accessible Fishing Area,,,yes,no,0101000020E6100000095D3BA947F955C0E1779D9C1ADB4440
-178,Bullfrog Lake,,,yes,no,0101000020E61000003E81609A49F955C05649CBF34BDB4440
+177,Maple Lake Boating Center,,,yes,no,0101000020E6100000095D3BA947F955C0E1779D9C1ADB4440
+178,Bullfrog Lake,"Wolf Rd, south of 95th St","Cook County, IL 60480",yes,no,0101000020E61000003E81609A49F955C05649CBF34BDB4440
 179,Pulaski Woods-East,"Wolf Rd, south of 95th St","Cook County, IL 60480",yes,no,0101000020E610000084D7489A45F955C0E55D4D0BC0DA4440
 181,Camp Sullivan Activity Barn & Climbing Wall,,,yes,no,0101000020E610000005297B313CF255C0EF9C88FFF4CF4440
 182,Goeselville Grove Family Picnic Area,"Ridgeland Ave, south of E 143rd St","Cook County, IL 60452",yes,no,0101000020E610000010C0750CB3F155C04D830E2791D04440
@@ -193,7 +193,6 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 234,Papoose Lake,,,yes,no,0101000020E6100000E964567923F755C079201B6955D54440
 236,Glenview Woods,,,yes,no,0101000020E6100000B16CF09D61F155C01CFDD2DFA3084540
 237,Calvin R. Sutker Grove,,,yes,no,0101000020E6100000E740FF0FC8F055C04DC7311924074540
-238,Glen Grove Equestrian Center,9453 Harms Rd,"Morton Grove, IL 60053",yes,no,0101000020E6100000F89943AD08F155C0FA86739CE9064540
 239,Chick Evans Golf Course,6145 Golf Rd,"Morton Grove, IL 60053",yes,no,0101000020E61000006447489BFCF155C02C0D699610074540
 241,Whealan Pool Aquatic Center,6200 W Devon Ave,"Chicago, IL 60646",yes,no,0101000020E61000008253ACA531F255C0FE610ABCACFF4440
 242,Mathew Bieszczat Volunteer Resource Center,6100 N Central Ave,"Chicago, IL 60646",yes,no,0101000020E61000002C07573008F155C03C877A9DD1FE4440
@@ -206,12 +205,12 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 253,Belly Deep Slough,,,yes,no,0101000020E6100000BC24BACB8CF655C0C7144BA4C0DA4440
 254,Morrill Meadow,"107th St, west of LaGrange Rd","Cook County, IL 60480",yes,no,0101000020E6100000F6126525E8F655C04D078F6711D94440
 255,Dan McMahon Woods,"107th St, west of 96th Ave","Cook County, IL 60480",yes,no,0101000020E61000004B4F2D8065F755C076C742720BD94440
-256,Saganashkee Slough-East Accessible Fishing Area,,,yes,no,0101000020E61000002D8E38F8FFF755C0E8A112EA4CD84440
+256,Saganashkee Slough-East,"S Willow Springs Rd/104th Ave, north of Calumet Sag Rd/Rte 83","Cook County, IL 60480",yes,no,0101000020E61000002D8E38F8FFF755C0E8A112EA4CD84440
 257,Crawdad Slough,"Flavin Rd/Willow Springs Rd/104th Ave, south of 95th St","Cook County, IL 60480",yes,no,0101000020E6100000FC3C19C30BF855C0E692B89A89DB4440
 258,Maple Lake Overlook,"95th St, southeast of S Archer Ave","Cook County, IL 60480",yes,no,0101000020E610000081AAB11B14F955C09DB2915AADDB4440
 259,Henry De Tonty Woods,"S Archer Ave, northeast of 107th St","Cook County, IL 60480",yes,no,0101000020E610000063C127BC58FA55C03DDFB4B945DB4440
 260,Saganashkee Slough,,,yes,no,0101000020E6100000CA33B6B675F955C0B1DCBA4354D94440
-261,Saganashkee Slough Boat Launch,"107th St, west of S Willow Springs Rd/104th Ave","Cook County, IL 60480",yes,no,0101000020E6100000B22BB29DFAF955C0539372E33CD94440
+261,Saganashkee Slough Accessible Boat Launch,,,yes,no,0101000020E6100000B22BB29DFAF955C0539372E33CD94440
 262,Sag Quarries,,,yes,no,0101000020E6100000D640B2F0B2FB55C03450271354D84440
 263,Andrew Toman Grove,Desplaines Ave &amp; 27th St,"North Riverside, IL 60546",yes,no,0101000020E610000090792FFEACF455C05B9E499A81EB4440
 264,Thorn Creek Model Airplane Flying Field,,,yes,no,0101000020E6100000772EE9E3FEE455C0BA7F583BC6C64440
@@ -224,7 +223,7 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 275,McGinnis Slough,"S La Grange Rd, south of W 135th St","Orland Park, IL 60462",yes,no,0101000020E610000080EE6D26A8F655C077423FBA2DD24440
 276,Orland Grassland Land and Water Reserve,"W 167th St, west of S La Grange Rd","Cook County, IL 60467",yes,no,0101000020E610000052F9C59EACF655C02904998217CB4440
 277,Orland Grassland South,,,yes,no,0101000020E61000005D37E1CCBBF755C06E2C62E2BAC74440
-279,Catalina Grove Family Picnic Area,,,yes,no,0101000020E6100000FA4DC7AA4EF355C0D1FEDB83F8CE4440
+279,Catalina Grove Family Picnic Area,"151st St, west of Harlem Ave","Cook County, IL 60462",yes,no,0101000020E6100000FA4DC7AA4EF355C0D1FEDB83F8CE4440
 280,George W. Dunne National Golf Course,16310 S Central Ave,"Oak Forest, IL 60452",yes,no,0101000020E6100000ACDE59C35FF055C0A8BE8A453ECC4440
 281,St. Mihiel Woods-East,"Central Ave, south of 167th St","Cook County, IL 60477",yes,no,0101000020E6100000E1DFF3B957F055C0EC484E3A0CCB4440
 282,Midlothian Reservoir,,,yes,no,0101000020E6100000262E47CF40EF55C059CB18515ACB4440
@@ -239,7 +238,7 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 292,Iroquois Woods,"E Touhy Ave, west of Talcott Rd","Cook County, IL 60018",yes,no,0101000020E61000009AB158DA49F755C0AE39FAC250014540
 293,Linne Woods,"W Dempster St, east of Lehigh Ave","Morton Grove, IL 60053",yes,no,0101000020E61000001F91EE0C30F255C08D713B173F054540
 295,Miami Woods,,,yes,no,0101000020E610000077BE94EFEFF255C0131AB5DDD7034540
-297,Sag Valley Equestrian Parking,"W 131st St, east of Bell Rd","Cook County, IL 60439",yes,no,0101000020E610000023829F0726FB55C0FB703BFA51D34440
+297,Sag Valley Equestrian Parking,,,yes,no,0101000020E610000023829F0726FB55C0FB703BFA51D34440
 298,Powderhorn Lake Boat Launch,,,yes,no,0101000020E6100000BFCF1E373BE255C08B02911102D24440
 299,Burnham Woods Golf Course,14201 S Burnham Ave,"Burnham, IL 60633",yes,no,0101000020E6100000ACFB29DD86E255C0E2132FE690D14440
 300,Burnham Prairie,E 139th St &amp; S Manistee Ave,"Burnham, IL 60633",yes,no,0101000020E6100000D20B706983E355C07C60A63F40D24440
@@ -255,14 +254,14 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 310,Bartel Grassland Land and Water Reserve,"Flossmoor Rd, west of Central Ave","Cook County, IL 60477",yes,no,0101000020E6100000CA37D3E630F055C02C7C198470C54440
 311,Joe's Pond,"S Willow Springs Rd/Flavin Rd, north of 107th St","Cook County, IL 60480",yes,no,0101000020E61000008A792D6007F855C03D26C87BDAD94440
 312,Busse Forest-South,"E Higgins Rd/Rte 72, west of N Arlington Heights Rd","Cook County, IL 60007",yes,no,0101000020E6100000F1E3B0C86CFF55C0DDDE4961A8034540
-313,Busse Lake Boating Center Accessible Canoe Landing,,,yes,no,0101000020E6100000F6C45292A60156C070B12A078B044540
-314,Busse Forest-West Accessible Fishing Area,,,yes,no,0101000020E6100000D7F81939E70056C05CDF6FAA25044540
+313,Busse Lake Boating Center,,,yes,no,0101000020E6100000F6C45292A60156C070B12A078B044540
+314,Busse Forest-West,"E Higgins Rd/Rte 72, east of I-290/Hwy 53","Cook County, IL 60007",yes,no,0101000020E6100000D7F81939E70056C05CDF6FAA25044540
 315,Busse Forest-Central,"E Higgins Rd/Rte 72, west of N Arlington Heights Rd","Cook County, IL 60007",yes,no,0101000020E6100000622F0B948C0056C02FEAD3D6F3034540
 316,Busse Forest-North,"E Higgins Rd/Rte 72, west of N Arlington Heights Rd","Cook County, IL 60007",yes,no,0101000020E610000056805A33FCFF55C0C1D2A31BDB034540
 318,National Grove-South,"Groveland Ave, north of 31st St","North Riverside, IL 60546",yes,no,0101000020E61000000E26CE01DDF455C02B64E1C449EB4440
 319,Zoo Woods,"1st Ave, south of 31st Ave","Riverside, IL 60546",yes,no,0101000020E6100000CB091AE60BF555C0784ECF9252EA4440
 320,Hidden Pond Woods-East,"S Kean Ave, north of W 95th St","Cook County, IL 60480",yes,no,0101000020E610000048EFBB1335F655C0C4F731312BDC4440
-321,Beaubien Woods Accessible Fishing Area,,,yes,no,0101000020E6100000058B3C1226E555C0DE8CEF0B1FD34440
+321,Beaubien Woods,"W Doty Ave S, southeast of E 130th St &amp; S Ellis Ave","Chicago, IL 60827",yes,no,0101000020E6100000058B3C1226E555C0DE8CEF0B1FD34440
 322,Lansing Woods,"186th St, east of Torrence Ave","Cook County, IL 60438",yes,no,0101000020E6100000BBC0D2536AE355C09C0C77195AC74440
 323,Dixmoor Playfield,"Wood St, south of Thornton Rd","Dixmoor, IL 60426",yes,no,0101000020E61000008EE57B724BEA55C040015B1C31D14440
 324,Northwestern Woods Canoe Landing,,,yes,no,0101000020E61000000C923F8F65F855C0E41C0CDDCF044540
@@ -271,10 +270,11 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 329,Penny Road Pond,"East Penny Rd, west of Old Sutton Rd","Barrington Hills, IL 60010",yes,no,0101000020E61000009F9C9B8A430D56C0BC2A9F9F990C4540
 330,O'Malley Ponds,,,yes,no,0101000020E61000000425E27A7DE255C01B5C6EC46DBF4440
 333,Bode East,"E Bode Rd, west of S Barrington Rd","Hoffman Estates, IL 60107",yes,no,0101000020E61000006C1D0F389D0956C0285959B203054540
-334,Camp Bullfrog Lake Accessible Fishing Area,,,yes,no,0101000020E61000001DDE9C5A8EF955C010D8F8F50ADB4440
+334,Camp Bullfrog Lake,,,yes,no,0101000020E61000001DDE9C5A8EF955C010D8F8F50ADB4440
 336,Cermak Quarry,,,yes,no,0101000020E61000007977287622F455C008976351FCE84440
 337,Brookfield Zoo,3300 Golf Rd,"Brookfield, IL 60513",yes,no,0101000020E61000000B1C21A95BF555C0A992F09C11EB4440
 350,Oak Forest Heritage Preserve-West Accessible Fishing Area,,,yes,no,0101000020E61000005997DB1EABEE55C0C18E51318CCC4440
 353,Miller Meadow Model Airplane Flying Field,"1st Ave Cutoff, north of Cermak Rd","Cook County, IL 60130",yes,,0101000020E6100000A4AECEC132F555C0B77127BBE9EC4440
 400,Thorn Creek Greenway,E 170th St & Vollbrecht Rd,"South Holland, IL 60473",yes,,0101000020E6100000920087EB00E555C060952B6D06CB4440
 419,Tuma Lake,"S Willow Springs Rd/Flavin Rd, north of 107th St","Cook County, IL 60480",yes,no,0101000020E6100000B3BB66E206F855C000F27F8F65DA4440
+421,Spring Creek Parking,,,yes,no,0101000020E61000001675CF23CB0C56C0668DD483460F4540
