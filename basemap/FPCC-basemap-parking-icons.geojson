@@ -320,7 +320,6 @@
 { "type": "Feature", "properties": { "fpdccBasemap": "P" }, "geometry": { "type": "Point", "coordinates": [ -87.793575, 41.634487 ] } },
 { "type": "Feature", "properties": { "fpdccBasemap": "P" }, "geometry": { "type": "Point", "coordinates": [ -88.047507, 42.142081 ] } },
 { "type": "Feature", "properties": { "fpdccBasemap": "P" }, "geometry": { "type": "Point", "coordinates": [ -87.83269584363407, 41.891789838168464 ] } },
-{ "type": "Feature", "properties": { "fpdccBasemap": "P" }, "geometry": { "type": "Point", "coordinates": [ -87.884568736456515, 41.830370000930316 ] } },
 { "type": "Feature", "properties": { "fpdccBasemap": "P" }, "geometry": { "type": "Point", "coordinates": [ -87.641258168657046, 41.510483027672734 ] } },
 { "type": "Feature", "properties": { "fpdccBasemap": "P" }, "geometry": { "type": "Point", "coordinates": [ -87.821005351111737, 41.821060681385369 ] } },
 { "type": "Feature", "properties": { "fpdccBasemap": "P" }, "geometry": { "type": "Point", "coordinates": [ -88.199885069030898, 42.119374324513267 ] } }

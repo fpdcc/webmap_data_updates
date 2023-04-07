@@ -277,4 +277,4 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 353,Miller Meadow Model Airplane Flying Field,"1st Ave Cutoff, north of Cermak Rd","Cook County, IL 60130",yes,,0101000020E6100000A4AECEC132F555C0B77127BBE9EC4440
 400,Thorn Creek Greenway,E 170th St & Vollbrecht Rd,"South Holland, IL 60473",yes,,0101000020E6100000920087EB00E555C060952B6D06CB4440
 419,Tuma Lake,"S Willow Springs Rd/Flavin Rd, north of 107th St","Cook County, IL 60480",yes,no,0101000020E6100000B3BB66E206F855C000F27F8F65DA4440
-421,Spring Creek Parking,,,yes,no,0101000020E61000001675CF23CB0C56C0668DD483460F4540
+421,165 Algonquin,"Algonquin Rd, west of Old Sutton Rd","Barrington, IL 60010",yes,no,0101000020E61000001675CF23CB0C56C0668DD483460F4540
