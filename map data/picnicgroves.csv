@@ -91,7 +91,7 @@
 95,St. Paul Woods,4,350,yes,shelter,"Village of Morton Grove, IL",1,135,125,portable,279,POINT (-87.7908750111381 42.0309269735909)
 96,Miami Woods,1,200,no,shelter,"Village of Morton Grove, IL",0,,,,280,POINT (-87.7937931203971 42.02882578115557)
 97,Thatcher Woods,2,100,no,shelter,"Village of River Forest, IL",0,,,,232,POINT (-87.83127601111333 41.89880191510109)
-98,Possum Hollow Woods,1,200,no,shelter,"Village of Westchester, IL",0,,,,248,POINT (-87.87999876574501 41.835041963146054)
+98,Possum Hollow Woods,1,200,no,shelter,"Village of Westchester, IL",1,80,85,,248,POINT (-87.87999876574501 41.835041963146054)
 100,Green Lake Woods,1,100,yes,no shelter,"Calumet City, IL",0,,,,153,POINT (-87.5580310702015 41.606387555658856)
 101,Green Lake Woods,2,100,yes,no shelter,"Calumet City, IL",0,,,,153,POINT (-87.55696981044929 41.60534093502176)
 102,Green Lake Woods,3,100,yes,no shelter,"Calumet City, IL",0,,,,153,POINT (-87.55567253514498 41.605085324697875)
