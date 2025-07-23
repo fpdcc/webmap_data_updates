@@ -276,7 +276,7 @@ parking_info_id,name,web_street_addr,web_muni_addr,web_poi,entrance_closed,geom
 350,Oak Forest Heritage Preserve-West Accessible Fishing Area,,,yes,no,0101000020E61000005997DB1EABEE55C0C18E51318CCC4440
 353,Miller Meadow Model Airplane Flying Field,"1st Ave Cutoff, north of Cermak Rd","Cook County, IL 60130",yes,no,0101000020E6100000A4AECEC132F555C0B77127BBE9EC4440
 400,Thorn Creek Greenway,E 170th St & Vollbrecht Rd,"South Holland, IL 60473",yes,no,0101000020E6100000920087EB00E555C060952B6D06CB4440
-412,13951 La Grange Road,,,yes,no,01010000206B0D0000DFC432E6E904314127242CE66AA23B41
+412,13951 La Grange Road,,,yes,no,0101000020E6100000AC55A53DA2F655C0C0CBBE8BAAD14440
 419,Tuma Lake,"S Willow Springs Rd/Flavin Rd, north of 107th St","Cook County, IL 60480",yes,no,0101000020E6100000B3BB66E206F855C000F27F8F65DA4440
 421,165 Algonquin,"Algonquin Rd, west of Old Sutton Rd","Barrington, IL 60010",yes,no,0101000020E61000001675CF23CB0C56C0668DD483460F4540
 422,6101 Oak Forest Avenue,"Oak Forest Ave, west of Central Ave","Tinley Park, IL 60477",yes,no,0101000020E6100000FF1B2B02DBF055C0EB4CBE72C5CA4440
